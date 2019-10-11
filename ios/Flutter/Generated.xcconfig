@@ -1,0 +1,10 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/Stef/Apps_Dev_Space/_Google/flutter
+FLUTTER_APPLICATION_PATH=/Users/Stef/Apps_Dev_Space/GitHub/GeekMeSpeak/gradient_example
+FLUTTER_TARGET=/Users/Stef/Apps_Dev_Space/GitHub/GeekMeSpeak/gradient_example/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/Stef/Apps_Dev_Space/_Google/flutter/bin/cache/artifacts/engine/ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+TRACK_WIDGET_CREATION=true
